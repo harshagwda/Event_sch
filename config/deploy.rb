@@ -1,8 +1,8 @@
 # config valid only for current version of Capistrano
 # lock "3.9.1"
 
-set :application, "venkatesh_event"
-set :repo_url, "https://github.com/sunil-ramesh/vekatesh_event"
+set :application, "Event_sch"
+set :repo_url, "https://github.com/harshagwda/Event_sch"
 set :rbenv_ruby, '2.3.1'
 
 # Default branch is :master
